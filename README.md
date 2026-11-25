@@ -1,4 +1,4 @@
-# GPU Instancing — WebGPU/WGSL
+# GPU Instancing | WebGPU/WGSL
 
 Demonstração para Computação Gráfica — Insper. Gustavo Colombi Ribolla e Luigi Orlandi Quinze.
 
